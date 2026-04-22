@@ -92,7 +92,7 @@ git push -u origin main
 
 Dans Vercel → Settings → Domains :
 - Ajouter votre domaine personnalisé
-- Ou utiliser : `charliecorentin.vercel.app`
+- Ou utiliser : `charlieagbayahoun.vercel.app`
 
 ---
 
@@ -237,7 +237,7 @@ Le site inclut déjà :
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://charliecorentin.vercel.app/</loc>
+    <loc>https://charlieagbayahoun.vercel.app/</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>1.0</priority>
   </url>
@@ -247,7 +247,7 @@ Le site inclut déjà :
 ```
 User-agent: *
 Allow: /
-Sitemap: https://charliecorentin.vercel.app/sitemap.xml
+Sitemap: https://charlieagbayahoun.vercel.app/sitemap.xml
 ```
 
 ---
